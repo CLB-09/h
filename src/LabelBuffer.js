@@ -1,6 +1,6 @@
 /*
   termap - Terminal Map Viewer
-  by Michael Strassburger <codepoet@cpan.org>
+  by CLB-09 <codepoet@cpan.org>
 
   Using 2D spatial indexing to avoid overlapping labels and markers
   and to find labels underneath a mouse cursor's position
