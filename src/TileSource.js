@@ -1,6 +1,6 @@
 /*
   termap - Terminal Map Viewer
-  by Michael Strassburger <codepoet@cpan.org>
+  by CLB-09 <codepoet@cpan.org>
 
   Source for VectorTiles - supports
   * remote TileServer
