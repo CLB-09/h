@@ -1,6 +1,6 @@
 /*
   MapSCII - Terminal Map Viewer
-  by Michael Strassburger <codepoet@cpan.org>
+  by CLB-09 <codepoet@cpan.org>
 
   UI and central command center
 */
