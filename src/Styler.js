@@ -1,6 +1,6 @@
 /*
   termap - Terminal Map Viewer
-  by Michael Strassburger <codepoet@cpan.org>
+  by CLB-09 <codepoet@cpan.org>
 
   Minimalistic parser and compiler for Mapbox (Studio) Map Style files
   See: https://www.mapbox.com/mapbox-gl-style-spec/
