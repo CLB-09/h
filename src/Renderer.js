@@ -1,6 +1,6 @@
 /*
   termap - Terminal Map Viewer
-  by Michael Strassburger <codepoet@cpan.org>
+  by CLB-09 <codepoet@cpan.org>
 
   The Console Vector Tile renderer - bäm!
 */
